@@ -1,0 +1,906 @@
+fileFormatVersion: 2
+guid: 66eacecc4ad0bbe4183235415a625706
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bein
+    100002: Bein 1
+    100004: Bein 2
+    100006: Bolt
+    100008: Bolt 1
+    100010: Bolt 10
+    100012: Bolt 11
+    100014: Bolt 12
+    100016: Bolt 2
+    100018: Bolt 3
+    100020: Bolt 4
+    100022: Bolt 5
+    100024: Bolt 6
+    100026: Bolt 7
+    100028: Bolt 8
+    100030: Bolt 9
+    100032: Bolt_forlenget
+    100034: Bolt_forlenget 1
+    100036: Bolt_forlenget 2
+    100038: Bolt_forlenget 3
+    100040: Bolt_forlenget 4
+    100042: Bolt_forlenget 5
+    100044: Bolt_stor
+    100046: Brett_halvdel
+    100048: Diagonalt_stag
+    100050: Diagonalt_stag 1
+    100052: Diagonalt_stag 2
+    100054: Diagonalt_stag 3
+    100056: "Frittst\xE5ende_st\xF8ttestag"
+    100058: "Frittst\xE5ende_st\xF8ttestag 1"
+    100060: Hvilekant
+    100062: Hvilekant 1
+    100064: ID112
+    100066: ID120
+    100068: ID139
+    100070: ID139 1
+    100072: ID147
+    100074: ID147 1
+    100076: ID166
+    100078: ID184
+    100080: ID192
+    100082: ID200
+    100084: ID208
+    100086: ID216
+    100088: ID22
+    100090: ID224
+    100092: ID232
+    100094: ID248
+    100096: ID248 1
+    100098: ID248 2
+    100100: ID248 3
+    100102: ID248 4
+    100104: ID248 5
+    100106: ID248 6
+    100108: ID248 7
+    100110: ID270
+    100112: ID278
+    100114: ID296
+    100116: ID296 1
+    100118: ID296 2
+    100120: ID296 3
+    100122: ID296 4
+    100124: ID30
+    100126: ID315
+    100128: ID315 1
+    100130: ID323
+    100132: ID323 1
+    100134: ID343
+    100136: ID343 1
+    100138: ID351
+    100140: ID351 1
+    100142: ID372
+    100144: ID402
+    100146: ID435
+    100148: ID435 1
+    100150: ID435 2
+    100152: ID447
+    100154: ID455
+    100156: ID473
+    100158: ID493
+    100160: ID512
+    100162: ID520
+    100164: ID542
+    100166: ID542 1
+    100168: ID542 2
+    100170: ID542 3
+    100172: ID542 4
+    100174: ID542 5
+    100176: ID560
+    100178: ID560 1
+    100180: ID560 2
+    100182: ID568
+    100184: ID568 1
+    100186: ID568 2
+    100188: ID58
+    100190: ID584
+    100192: ID584 1
+    100194: ID584 2
+    100196: ID592
+    100198: ID592 1
+    100200: ID592 2
+    100202: ID600
+    100204: ID600 1
+    100206: ID600 2
+    100208: ID621
+    100210: ID621 1
+    100212: ID621 2
+    100214: ID629
+    100216: ID629 1
+    100218: ID629 2
+    100220: ID637
+    100222: ID637 1
+    100224: ID637 2
+    100226: ID651
+    100228: ID651 1
+    100230: ID651 2
+    100232: ID659
+    100234: ID659 1
+    100236: ID659 2
+    100238: ID66
+    100240: ID86
+    100242: ID86 1
+    100244: ID94
+    100246: ID94 1
+    100248: instance_0
+    100250: instance_1
+    100252: instance_10
+    100254: instance_11
+    100256: instance_12
+    100258: instance_13
+    100260: instance_14
+    100262: instance_15
+    100264: instance_16
+    100266: instance_17
+    100268: instance_18
+    100270: instance_19
+    100272: instance_2
+    100274: instance_20
+    100276: instance_21
+    100278: instance_22
+    100280: instance_23
+    100282: instance_24
+    100284: instance_25
+    100286: instance_26
+    100288: instance_27
+    100290: instance_28
+    100292: instance_29
+    100294: instance_3
+    100296: instance_30
+    100298: instance_31
+    100300: instance_32
+    100302: instance_33
+    100304: instance_34
+    100306: instance_35
+    100308: instance_36
+    100310: instance_37
+    100312: instance_38
+    100314: instance_39
+    100316: instance_4
+    100318: instance_40
+    100320: instance_41
+    100322: instance_42
+    100324: instance_43
+    100326: instance_44
+    100328: instance_44 1
+    100330: instance_44 2
+    100332: instance_45
+    100334: instance_45 1
+    100336: instance_45 2
+    100338: instance_46
+    100340: instance_47
+    100342: instance_48
+    100344: instance_49
+    100346: instance_5
+    100348: instance_50
+    100350: instance_50 1
+    100352: instance_50 2
+    100354: instance_51
+    100356: instance_51 1
+    100358: instance_51 2
+    100360: instance_52
+    100362: instance_52 1
+    100364: instance_52 2
+    100366: instance_53
+    100368: instance_53 1
+    100370: instance_53 2
+    100372: instance_54
+    100374: instance_55
+    100376: instance_56
+    100378: instance_6
+    100380: instance_7
+    100382: instance_8
+    100384: instance_9
+    100386: Klemme
+    100388: Kobling
+    100390: Kobling 1
+    100392: Kobling 2
+    100394: Kobling_1_3
+    100396: Kobling_1_3 1
+    100398: Kobling_1_3 2
+    100400: "Kobling_1_3_\xF8vre_del"
+    100402: "Kobling_1_3_\xF8vre_del 1"
+    100404: "Kobling_1_3_\xF8vre_del 2"
+    100406: Kobling_Nedre_del
+    100408: "Kobling_\xF8vdre_del"
+    100410: Ledd
+    100412: Midtstolpe
+    100414: //RootNode
+    100416: Music_Stand
+    100418: Mutter
+    100420: Overgang_1
+    100422: Overgang_2
+    100424: skp_camera_Last_Saved_SketchUp_View
+    100426: "St\xF8ttestag_for_ben"
+    100428: "St\xF8ttestag_for_ben 1"
+    100430: "St\xF8ttestag_for_ben 2"
+    100432: Teleskop_1
+    100434: Teleskop_2
+    100436: Teleskop_3
+    100438: "Teleskop__\xF8vre"
+    100440: Teleskop_mellomste
+    100442: Teleskop_nederste
+    100444: Vertikalt_Horisontalt_stag
+    100446: Vertikalt_Horisontalt_stag 1
+    100448: Vertikalt_Horisontalt_stag 2
+    100450: Vertikalt_Horisontalt_stag 3
+    100452: Vinge
+    100454: Vinge 1
+    100456: Vingemutter
+    100458: Vingeskrue
+    100460: Vingeskrue 1
+    100462: Vingeskrue 2
+    400000: Bein
+    400002: Bein 1
+    400004: Bein 2
+    400006: Bolt
+    400008: Bolt 1
+    400010: Bolt 10
+    400012: Bolt 11
+    400014: Bolt 12
+    400016: Bolt 2
+    400018: Bolt 3
+    400020: Bolt 4
+    400022: Bolt 5
+    400024: Bolt 6
+    400026: Bolt 7
+    400028: Bolt 8
+    400030: Bolt 9
+    400032: Bolt_forlenget
+    400034: Bolt_forlenget 1
+    400036: Bolt_forlenget 2
+    400038: Bolt_forlenget 3
+    400040: Bolt_forlenget 4
+    400042: Bolt_forlenget 5
+    400044: Bolt_stor
+    400046: Brett_halvdel
+    400048: Diagonalt_stag
+    400050: Diagonalt_stag 1
+    400052: Diagonalt_stag 2
+    400054: Diagonalt_stag 3
+    400056: "Frittst\xE5ende_st\xF8ttestag"
+    400058: "Frittst\xE5ende_st\xF8ttestag 1"
+    400060: Hvilekant
+    400062: Hvilekant 1
+    400064: ID112
+    400066: ID120
+    400068: ID139
+    400070: ID139 1
+    400072: ID147
+    400074: ID147 1
+    400076: ID166
+    400078: ID184
+    400080: ID192
+    400082: ID200
+    400084: ID208
+    400086: ID216
+    400088: ID22
+    400090: ID224
+    400092: ID232
+    400094: ID248
+    400096: ID248 1
+    400098: ID248 2
+    400100: ID248 3
+    400102: ID248 4
+    400104: ID248 5
+    400106: ID248 6
+    400108: ID248 7
+    400110: ID270
+    400112: ID278
+    400114: ID296
+    400116: ID296 1
+    400118: ID296 2
+    400120: ID296 3
+    400122: ID296 4
+    400124: ID30
+    400126: ID315
+    400128: ID315 1
+    400130: ID323
+    400132: ID323 1
+    400134: ID343
+    400136: ID343 1
+    400138: ID351
+    400140: ID351 1
+    400142: ID372
+    400144: ID402
+    400146: ID435
+    400148: ID435 1
+    400150: ID435 2
+    400152: ID447
+    400154: ID455
+    400156: ID473
+    400158: ID493
+    400160: ID512
+    400162: ID520
+    400164: ID542
+    400166: ID542 1
+    400168: ID542 2
+    400170: ID542 3
+    400172: ID542 4
+    400174: ID542 5
+    400176: ID560
+    400178: ID560 1
+    400180: ID560 2
+    400182: ID568
+    400184: ID568 1
+    400186: ID568 2
+    400188: ID58
+    400190: ID584
+    400192: ID584 1
+    400194: ID584 2
+    400196: ID592
+    400198: ID592 1
+    400200: ID592 2
+    400202: ID600
+    400204: ID600 1
+    400206: ID600 2
+    400208: ID621
+    400210: ID621 1
+    400212: ID621 2
+    400214: ID629
+    400216: ID629 1
+    400218: ID629 2
+    400220: ID637
+    400222: ID637 1
+    400224: ID637 2
+    400226: ID651
+    400228: ID651 1
+    400230: ID651 2
+    400232: ID659
+    400234: ID659 1
+    400236: ID659 2
+    400238: ID66
+    400240: ID86
+    400242: ID86 1
+    400244: ID94
+    400246: ID94 1
+    400248: instance_0
+    400250: instance_1
+    400252: instance_10
+    400254: instance_11
+    400256: instance_12
+    400258: instance_13
+    400260: instance_14
+    400262: instance_15
+    400264: instance_16
+    400266: instance_17
+    400268: instance_18
+    400270: instance_19
+    400272: instance_2
+    400274: instance_20
+    400276: instance_21
+    400278: instance_22
+    400280: instance_23
+    400282: instance_24
+    400284: instance_25
+    400286: instance_26
+    400288: instance_27
+    400290: instance_28
+    400292: instance_29
+    400294: instance_3
+    400296: instance_30
+    400298: instance_31
+    400300: instance_32
+    400302: instance_33
+    400304: instance_34
+    400306: instance_35
+    400308: instance_36
+    400310: instance_37
+    400312: instance_38
+    400314: instance_39
+    400316: instance_4
+    400318: instance_40
+    400320: instance_41
+    400322: instance_42
+    400324: instance_43
+    400326: instance_44
+    400328: instance_44 1
+    400330: instance_44 2
+    400332: instance_45
+    400334: instance_45 1
+    400336: instance_45 2
+    400338: instance_46
+    400340: instance_47
+    400342: instance_48
+    400344: instance_49
+    400346: instance_5
+    400348: instance_50
+    400350: instance_50 1
+    400352: instance_50 2
+    400354: instance_51
+    400356: instance_51 1
+    400358: instance_51 2
+    400360: instance_52
+    400362: instance_52 1
+    400364: instance_52 2
+    400366: instance_53
+    400368: instance_53 1
+    400370: instance_53 2
+    400372: instance_54
+    400374: instance_55
+    400376: instance_56
+    400378: instance_6
+    400380: instance_7
+    400382: instance_8
+    400384: instance_9
+    400386: Klemme
+    400388: Kobling
+    400390: Kobling 1
+    400392: Kobling 2
+    400394: Kobling_1_3
+    400396: Kobling_1_3 1
+    400398: Kobling_1_3 2
+    400400: "Kobling_1_3_\xF8vre_del"
+    400402: "Kobling_1_3_\xF8vre_del 1"
+    400404: "Kobling_1_3_\xF8vre_del 2"
+    400406: Kobling_Nedre_del
+    400408: "Kobling_\xF8vdre_del"
+    400410: Ledd
+    400412: Midtstolpe
+    400414: //RootNode
+    400416: Music_Stand
+    400418: Mutter
+    400420: Overgang_1
+    400422: Overgang_2
+    400424: skp_camera_Last_Saved_SketchUp_View
+    400426: "St\xF8ttestag_for_ben"
+    400428: "St\xF8ttestag_for_ben 1"
+    400430: "St\xF8ttestag_for_ben 2"
+    400432: Teleskop_1
+    400434: Teleskop_2
+    400436: Teleskop_3
+    400438: "Teleskop__\xF8vre"
+    400440: Teleskop_mellomste
+    400442: Teleskop_nederste
+    400444: Vertikalt_Horisontalt_stag
+    400446: Vertikalt_Horisontalt_stag 1
+    400448: Vertikalt_Horisontalt_stag 2
+    400450: Vertikalt_Horisontalt_stag 3
+    400452: Vinge
+    400454: Vinge 1
+    400456: Vingemutter
+    400458: Vingeskrue
+    400460: Vingeskrue 1
+    400462: Vingeskrue 2
+    2000000: skp_camera_Last_Saved_SketchUp_View
+    2100000: Metal_Corrogated_Shiny
+    2300000: Bein
+    2300002: Bein 1
+    2300004: Bein 2
+    2300006: Bolt
+    2300008: Bolt 1
+    2300010: Bolt 10
+    2300012: Bolt 11
+    2300014: Bolt 12
+    2300016: Bolt 2
+    2300018: Bolt 3
+    2300020: Bolt 4
+    2300022: Bolt 5
+    2300024: Bolt 6
+    2300026: Bolt 7
+    2300028: Bolt 8
+    2300030: Bolt 9
+    2300032: Bolt_forlenget
+    2300034: Bolt_forlenget 1
+    2300036: Bolt_forlenget 2
+    2300038: Bolt_forlenget 3
+    2300040: Bolt_forlenget 4
+    2300042: Bolt_forlenget 5
+    2300044: Bolt_stor
+    2300046: Diagonalt_stag
+    2300048: Diagonalt_stag 1
+    2300050: Diagonalt_stag 2
+    2300052: Diagonalt_stag 3
+    2300054: "Frittst\xE5ende_st\xF8ttestag"
+    2300056: "Frittst\xE5ende_st\xF8ttestag 1"
+    2300058: Hvilekant
+    2300060: Hvilekant 1
+    2300062: ID112
+    2300064: ID120
+    2300066: ID139
+    2300068: ID139 1
+    2300070: ID147
+    2300072: ID147 1
+    2300074: ID166
+    2300076: ID184
+    2300078: ID192
+    2300080: ID200
+    2300082: ID208
+    2300084: ID216
+    2300086: ID22
+    2300088: ID224
+    2300090: ID248
+    2300092: ID248 1
+    2300094: ID248 2
+    2300096: ID248 3
+    2300098: ID248 4
+    2300100: ID248 5
+    2300102: ID248 6
+    2300104: ID248 7
+    2300106: ID270
+    2300108: ID278
+    2300110: ID296
+    2300112: ID296 1
+    2300114: ID296 2
+    2300116: ID296 3
+    2300118: ID296 4
+    2300120: ID30
+    2300122: ID315
+    2300124: ID315 1
+    2300126: ID323
+    2300128: ID323 1
+    2300130: ID343
+    2300132: ID343 1
+    2300134: ID351
+    2300136: ID351 1
+    2300138: ID372
+    2300140: ID402
+    2300142: ID447
+    2300144: ID455
+    2300146: ID473
+    2300148: ID493
+    2300150: ID512
+    2300152: ID520
+    2300154: ID542
+    2300156: ID542 1
+    2300158: ID542 2
+    2300160: ID542 3
+    2300162: ID542 4
+    2300164: ID542 5
+    2300166: ID560
+    2300168: ID560 1
+    2300170: ID560 2
+    2300172: ID568
+    2300174: ID568 1
+    2300176: ID568 2
+    2300178: ID58
+    2300180: ID584
+    2300182: ID584 1
+    2300184: ID584 2
+    2300186: ID592
+    2300188: ID592 1
+    2300190: ID592 2
+    2300192: ID621
+    2300194: ID621 1
+    2300196: ID621 2
+    2300198: ID629
+    2300200: ID629 1
+    2300202: ID629 2
+    2300204: ID651
+    2300206: ID651 1
+    2300208: ID651 2
+    2300210: ID659
+    2300212: ID659 1
+    2300214: ID659 2
+    2300216: ID66
+    2300218: ID86
+    2300220: ID86 1
+    2300222: ID94
+    2300224: ID94 1
+    2300226: Klemme
+    2300228: Kobling_1_3
+    2300230: Kobling_1_3 1
+    2300232: Kobling_1_3 2
+    2300234: "Kobling_1_3_\xF8vre_del"
+    2300236: "Kobling_1_3_\xF8vre_del 1"
+    2300238: "Kobling_1_3_\xF8vre_del 2"
+    2300240: Ledd
+    2300242: Midtstolpe
+    2300244: Mutter
+    2300246: Overgang_1
+    2300248: Overgang_2
+    2300250: "St\xF8ttestag_for_ben"
+    2300252: "St\xF8ttestag_for_ben 1"
+    2300254: "St\xF8ttestag_for_ben 2"
+    2300256: Teleskop_1
+    2300258: Teleskop_2
+    2300260: Teleskop_3
+    2300262: Vertikalt_Horisontalt_stag
+    2300264: Vertikalt_Horisontalt_stag 1
+    2300266: Vertikalt_Horisontalt_stag 2
+    2300268: Vertikalt_Horisontalt_stag 3
+    2300270: Vinge
+    2300272: Vinge 1
+    2300274: Vingeskrue
+    2300276: Vingeskrue 1
+    2300278: Vingeskrue 2
+    3300000: Bein
+    3300002: Bein 1
+    3300004: Bein 2
+    3300006: Bolt
+    3300008: Bolt 1
+    3300010: Bolt 10
+    3300012: Bolt 11
+    3300014: Bolt 12
+    3300016: Bolt 2
+    3300018: Bolt 3
+    3300020: Bolt 4
+    3300022: Bolt 5
+    3300024: Bolt 6
+    3300026: Bolt 7
+    3300028: Bolt 8
+    3300030: Bolt 9
+    3300032: Bolt_forlenget
+    3300034: Bolt_forlenget 1
+    3300036: Bolt_forlenget 2
+    3300038: Bolt_forlenget 3
+    3300040: Bolt_forlenget 4
+    3300042: Bolt_forlenget 5
+    3300044: Bolt_stor
+    3300046: Diagonalt_stag
+    3300048: Diagonalt_stag 1
+    3300050: Diagonalt_stag 2
+    3300052: Diagonalt_stag 3
+    3300054: "Frittst\xE5ende_st\xF8ttestag"
+    3300056: "Frittst\xE5ende_st\xF8ttestag 1"
+    3300058: Hvilekant
+    3300060: Hvilekant 1
+    3300062: ID112
+    3300064: ID120
+    3300066: ID139
+    3300068: ID139 1
+    3300070: ID147
+    3300072: ID147 1
+    3300074: ID166
+    3300076: ID184
+    3300078: ID192
+    3300080: ID200
+    3300082: ID208
+    3300084: ID216
+    3300086: ID22
+    3300088: ID224
+    3300090: ID248
+    3300092: ID248 1
+    3300094: ID248 2
+    3300096: ID248 3
+    3300098: ID248 4
+    3300100: ID248 5
+    3300102: ID248 6
+    3300104: ID248 7
+    3300106: ID270
+    3300108: ID278
+    3300110: ID296
+    3300112: ID296 1
+    3300114: ID296 2
+    3300116: ID296 3
+    3300118: ID296 4
+    3300120: ID30
+    3300122: ID315
+    3300124: ID315 1
+    3300126: ID323
+    3300128: ID323 1
+    3300130: ID343
+    3300132: ID343 1
+    3300134: ID351
+    3300136: ID351 1
+    3300138: ID372
+    3300140: ID402
+    3300142: ID447
+    3300144: ID455
+    3300146: ID473
+    3300148: ID493
+    3300150: ID512
+    3300152: ID520
+    3300154: ID542
+    3300156: ID542 1
+    3300158: ID542 2
+    3300160: ID542 3
+    3300162: ID542 4
+    3300164: ID542 5
+    3300166: ID560
+    3300168: ID560 1
+    3300170: ID560 2
+    3300172: ID568
+    3300174: ID568 1
+    3300176: ID568 2
+    3300178: ID58
+    3300180: ID584
+    3300182: ID584 1
+    3300184: ID584 2
+    3300186: ID592
+    3300188: ID592 1
+    3300190: ID592 2
+    3300192: ID621
+    3300194: ID621 1
+    3300196: ID621 2
+    3300198: ID629
+    3300200: ID629 1
+    3300202: ID629 2
+    3300204: ID651
+    3300206: ID651 1
+    3300208: ID651 2
+    3300210: ID659
+    3300212: ID659 1
+    3300214: ID659 2
+    3300216: ID66
+    3300218: ID86
+    3300220: ID86 1
+    3300222: ID94
+    3300224: ID94 1
+    3300226: Klemme
+    3300228: Kobling_1_3
+    3300230: Kobling_1_3 1
+    3300232: Kobling_1_3 2
+    3300234: "Kobling_1_3_\xF8vre_del"
+    3300236: "Kobling_1_3_\xF8vre_del 1"
+    3300238: "Kobling_1_3_\xF8vre_del 2"
+    3300240: Ledd
+    3300242: Midtstolpe
+    3300244: Mutter
+    3300246: Overgang_1
+    3300248: Overgang_2
+    3300250: "St\xF8ttestag_for_ben"
+    3300252: "St\xF8ttestag_for_ben 1"
+    3300254: "St\xF8ttestag_for_ben 2"
+    3300256: Teleskop_1
+    3300258: Teleskop_2
+    3300260: Teleskop_3
+    3300262: Vertikalt_Horisontalt_stag
+    3300264: Vertikalt_Horisontalt_stag 1
+    3300266: Vertikalt_Horisontalt_stag 2
+    3300268: Vertikalt_Horisontalt_stag 3
+    3300270: Vinge
+    3300272: Vinge 1
+    3300274: Vingeskrue
+    3300276: Vingeskrue 1
+    3300278: Vingeskrue 2
+    4300000: Klemme
+    4300002: ID22
+    4300004: ID30
+    4300006: Teleskop_3
+    4300008: Bolt_stor
+    4300010: ID58
+    4300012: ID66
+    4300014: Vertikalt_Horisontalt_stag
+    4300016: ID86
+    4300018: ID94
+    4300020: Hvilekant
+    4300022: ID112
+    4300024: ID120
+    4300026: Diagonalt_stag
+    4300028: ID139
+    4300030: ID147
+    4300032: "Frittst\xE5ende_st\xF8ttestag"
+    4300034: ID166
+    4300036: Midtstolpe
+    4300038: ID184
+    4300040: ID192
+    4300042: ID200
+    4300044: ID208
+    4300046: ID216
+    4300048: ID224
+    4300050: Bolt
+    4300052: ID248
+    4300054: Hvilekant
+    4300056: ID270
+    4300058: ID278
+    4300060: Bolt
+    4300062: ID296
+    4300064: Vertikalt_Horisontalt_stag
+    4300066: ID315
+    4300068: ID323
+    4300070: Diagonalt_stag
+    4300072: ID343
+    4300074: ID351
+    4300076: "Frittst\xE5ende_st\xF8ttestag"
+    4300078: ID372
+    4300080: Ledd
+    4300082: Mutter
+    4300084: ID402
+    4300086: Vinge
+    4300088: Overgang_1
+    4300090: ID447
+    4300092: ID455
+    4300094: Vingeskrue
+    4300096: Teleskop_2
+    4300098: ID473
+    4300100: Teleskop_1
+    4300102: ID493
+    4300104: Overgang_2
+    4300106: ID512
+    4300108: ID520
+    4300110: Kobling_1_3
+    4300112: ID584
+    4300114: ID592
+    4300116: Bolt_forlenget
+    4300118: ID542
+    4300120: Bein
+    4300122: ID560
+    4300124: ID568
+    4300126: "Kobling_1_3_\xF8vre_del"
+    4300128: ID621
+    4300130: ID629
+    4300132: "St\xF8ttestag_for_ben"
+    4300134: ID651
+    4300136: ID659
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
